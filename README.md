@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+---
+
+<img align="left" alt="Wilsen Hernández's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wilsenhc&show_icons=true&hide_border=true&count_private=true" />
+
 <!--
 **wilsenhc/wilsenhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
