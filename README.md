@@ -5,6 +5,7 @@ I'm a passionate Full Stack Web Developer from Valencia, Venezuela.
 ### Connect with me:
 
 [<img align="left" alt="wilsenhc.com.ve" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Wilsen Hernández | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="Wilsen Hernández | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Wilsen Hernández | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Wilsen Hernández | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -30,12 +31,14 @@ I'm a passionate Full Stack Web Developer from Valencia, Venezuela.
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
 
 ---
 
 <img align="left" alt="Wilsen Hernández's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wilsenhc&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://wilsenhc.com.ve
+[email]: mailto:wilsenforwork@gmail.com
 [twitter]: https://twitter.com/wilsenhc
 [instagram]: https://instagram.com/wilsenhc
 [linkedin]: https://linkedin.com/in/wilsenhc
