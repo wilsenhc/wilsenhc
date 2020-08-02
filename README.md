@@ -1,4 +1,6 @@
-### Hello, my name is Wilsen Hernández and I am a Front-end Web Developer
+### Hello, I'm Wilsen Hernández
+
+I'm a passionate Full Stack Web Developer.
 
 ---
 
