@@ -40,6 +40,8 @@ I'm a passionate Full Stack Web Developer from Valencia, Venezuela.
 <br />
 
 <img align="left" alt="Wilsen Hernández's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wilsenhc&show_icons=true&hide_border=true&count_private=true&theme=vue-dark" />
+<img align="left" alt="Wilsen Hernández's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsenhc&theme=vue-dark&layout=compact" />
+
 
 [website]: https://wilsenhc.com.ve
 [email]: mailto:wilsenforwork@gmail.com
