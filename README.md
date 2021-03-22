@@ -39,7 +39,7 @@ I'm a passionate Full Stack Web Developer from Valencia, Venezuela.
 [![Repos Badge](https://badges.pufler.dev/repos/wilsenhc)](https://badges.pufler.dev)
 <br />
 
-<img align="left" alt="Wilsen Hernández's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wilsenhc&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Wilsen Hernández's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wilsenhc&show_icons=true&hide_border=true&count_private=true&theme=vue-dark" />
 
 [website]: https://wilsenhc.com.ve
 [email]: mailto:wilsenforwork@gmail.com
