@@ -4,11 +4,8 @@ I'm a passionate Full Stack Web Developer from Valencia, Venezuela.
 
 ### Connect with me:
 
-[<img align="left" alt="wilsenhc.com.ve" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Wilsen Hernández | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="Wilsen Hernández | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Wilsen Hernández | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Wilsen Hernández | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -43,10 +40,7 @@ I'm a passionate Full Stack Web Developer from Valencia, Venezuela.
 <img align="left" alt="Wilsen Hernández's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsenhc&theme=vue-dark&layout=compact" />
 
 
-[website]: https://wilsenhc.com.ve
 [email]: mailto:wilsenforwork@gmail.com
-[twitter]: https://twitter.com/wilsenhc
-[instagram]: https://instagram.com/wilsenhc
 [linkedin]: https://linkedin.com/in/wilsenhc
 
 <!--
