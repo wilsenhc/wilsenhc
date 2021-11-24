@@ -2,7 +2,7 @@
 
 I'm a passionate Full Stack Web Developer from Valencia, Venezuela.
 
-- 📱 Currently learning Dart and Flutter development.
+- ☁️ Currently learning AWS.
 - 👨🏻‍💻 I love to try out new things
 - 📰 In charge of [@todolaravel](https://www.github.com/todolaravel/)
 
