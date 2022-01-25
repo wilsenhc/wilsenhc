@@ -1,3 +1,6 @@
+[![Visits Badge](https://badges.pufler.dev/visits/wilsenhc/wilsenhc)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/wilsenhc)](https://badges.pufler.dev)
+
 ## Hello, I'm Wilsen Hernández
 
 I'm a passionate Full Stack Web Developer and Laravel Artisan from Valencia, Venezuela.
@@ -45,13 +48,12 @@ I'm a passionate Full Stack Web Developer and Laravel Artisan from Valencia, Ven
 <br />
 
 ---
-[![Visits Badge](https://badges.pufler.dev/visits/wilsenhc/wilsenhc)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/wilsenhc)](https://badges.pufler.dev)
 <br />
 
 <img align="left" alt="Wilsen Hernández's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wilsenhc&show_icons=true&hide_border=true&count_private=true&theme=vue-dark" />
+<!--
 <img align="left" alt="Wilsen Hernández's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsenhc&theme=vue-dark&layout=compact" />
-
+-->
 
 [email]: mailto:wilsenforwork@gmail.com
 [linkedin]: https://linkedin.com/in/wilsenhc
