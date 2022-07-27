@@ -1,9 +1,9 @@
 [![Visits Badge](https://badges.pufler.dev/visits/wilsenhc/wilsenhc)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/wilsenhc)](https://badges.pufler.dev)
 
-## Hello, I'm Wilsen Hernández
+## Hi there, i'm Wilsen Hernández
 
-I'm a passionate Full Stack Web Developer and Laravel Artisan from Valencia, Venezuela.
+I'm a passionate Full Stack Web Developer and Laravel Artisan from Venezuela.
 
 - ☁️ Currently learning AWS.
 - 👨🏻‍💻 I love to try out new things
