@@ -1,5 +1,5 @@
-[![Visits Badge](https://badges.pufler.dev/visits/wilsenhc/wilsenhc)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/wilsenhc)](https://badges.pufler.dev)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/wilsenhc/wilsenhc)](https://badges.pufler.dev) -->
+<!-- [![Repos Badge](https://badges.pufler.dev/repos/wilsenhc)](https://badges.pufler.dev) -->
 
 ## Hi there, i'm Wilsen Hernández
 
