@@ -9,7 +9,7 @@
 
 ### Skills:
 
-- **Languages**: JavaScript, TypeScript, PHP, 
+- **Languages**: JavaScript, TypeScript, PHP.
 - **Front-end**: Vue.js, Angular.js, Angular 2+, Alpine.js, Inertia.js, Quasar Framework.
 - **Back-end**: PHP, Laravel, Node.js, Express.js.
 - **Databases**: MySQL, MariaDB, PostgreSQL, MongoDB, Redis.
