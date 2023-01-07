@@ -2,21 +2,22 @@
 
 ### About me
 
-- Full Stack Developer and Laravel Artisan.
+- Full Stack Developer and Laravel Artisan. Currently working with the Laravel + Ienrtia.js Stack.
 - Currently learning AWS.
 - I love to experiment with new things and contribute to open source.
-- Working at [ManyRequests LLC](https://manyrequests.com/) as a Full Stack Developer using Laravel & Vue.js.
+- Looking for work as Full Stack Developer, Laravel Developer or Vue.js Developer.
 
 ### Skills:
 
 - **Languages**: JavaScript, TypeScript, PHP.
-- **Front-end**: Vue.js, Angular.js, Angular 2+, Alpine.js, Inertia.js, Quasar Framework.
-- **Back-end**: PHP, Laravel, Node.js, Express.js.
+- **Front-end**: Vue.js, Alpine.js, Inertia.js, Quasar Framework, React, Angular.
+- **Back-end**: PHP, Laravel, Node.js, Express.js, Symfony.
 - **Databases**: MySQL, MariaDB, PostgreSQL, MongoDB, Redis.
 - **CSS Frameworks**: Sass, Tailwind, Bootstrap, MaterializeCSS.
+- **Testing**: PHPUnit, Pest, Jest.
 - **CI/CD**: GitHub Actions, BitBucket Pipelines.
 - **Cloud Services**: AWS S3, EC2, RDS, Lambda; Google Cloud Functions.
-- **Others**: Docker, Git.
+- **Others**: Docker, Git, Zapier Integrations.
 
 ### Connect with me:
 
