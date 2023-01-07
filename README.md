@@ -2,7 +2,7 @@
 
 ### About me
 
-- Full Stack Developer and Laravel Artisan. Currently working with the Laravel + Ienrtia.js Stack.
+- Full Stack Developer and Laravel Artisan. Currently working with the Laravel + Inertia.js Stack.
 - Currently learning AWS.
 - I love to experiment with new things and contribute to open source.
 - Looking for work as Full Stack Developer, Laravel Developer or Vue.js Developer.
