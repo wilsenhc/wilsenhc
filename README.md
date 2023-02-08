@@ -4,7 +4,7 @@
 
 ⚡ Full Stack Developer and Laravel Artisan.<br>
 🔭 I'm currently working with the Laravel + Inertia.js + TailwindCSS Stack.<br>
-👯 I’m looking for work as Full Stack Developer, Laravel Developer or Vue.js Developer<br>
+👯 Working at [Splice Digital Inc.](https://splicedigital.com/) as an Intermediate Back-End Developer using Laravel & PHP.<br>
 🌱 I’m currently learning AWS.<br>
 💡 I love to experiment with new things and contribute to open source.<br>
 💬 Ask me about anything.<br>
