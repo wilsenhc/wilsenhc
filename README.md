@@ -12,7 +12,7 @@
 ### Skills:
 
 - **Languages**: JavaScript, TypeScript, PHP.
-- **Front-end**: Vue.js, Alpine.js, Inertia.js, Quasar Framework, React, Angular.
+- **Front-end**: Vue.js, Alpine.js, Inertia.js, Quasar Framework, React, Angular, Nuxt.js.
 - **Back-end**: PHP, Laravel, Node.js, Express.js, Symfony.
 - **Databases**: MySQL, MariaDB, PostgreSQL, MongoDB, Redis.
 - **CSS Frameworks**: Sass, Tailwind, Bootstrap, MaterializeCSS, Ant-Design.
