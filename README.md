@@ -25,6 +25,7 @@
 
 - [wilsenforwork@gmail.com][email]
 - [LinkedIn Profile][linkedin]
+- [Download CV][flowcv]
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wilsenhc&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
@@ -33,3 +34,4 @@
 
 [email]: mailto:wilsenforwork@gmail.com
 [linkedin]: https://linkedin.com/in/wilsenhc
+[flowcv]: https://flowcv.com/resume/s2angqcuka
