@@ -28,9 +28,20 @@
 - [Download CV][flowcv]
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wilsenhc&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wilsenhc&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsenhc&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wilsenhc&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=wilsenhc&hide_border=true&include_all_commits=true&count_private=true">
+</picture>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=wilsenhc&theme=dark&hide_border=true">
+  <img alt="Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=wilsenhc&hide_border=true">
+</picture>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsenhc&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsenhc&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+</picture>
 
 [email]: mailto:wilsenforwork@gmail.com
 [linkedin]: https://linkedin.com/in/wilsenhc
