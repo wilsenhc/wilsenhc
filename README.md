@@ -14,11 +14,11 @@
 - **Languages**: JavaScript, TypeScript, PHP.
 - **Front-end**: Vue.js, Alpine.js, Inertia.js, Quasar Framework, React, Angular, Nuxt.js.
 - **Back-end**: PHP, Laravel, Node.js, Express.js, Symfony.
-- **Databases**: MySQL, MariaDB, PostgreSQL, MongoDB, Redis.
+- **Databases**: MySQL, MariaDB, PostgreSQL, MongoDB, Redis, Meilisearch.
 - **CSS Frameworks**: Sass, Tailwind, Bootstrap, MaterializeCSS, Ant-Design.
 - **Testing**: PHPUnit, Pest, Jest.
-- **CI/CD**: GitHub Actions, BitBucket Pipelines.
-- **Cloud Services**: AWS S3, EC2, RDS, Lambda; Google Cloud Functions.
+- **CI/CD**: GitHub Actions, BitBucket Pipelines, CircleCI.
+- **Cloud Services**: AWS S3, EC2, RDS, Lambda; Google Cloud Functions, Laravel Forge.
 - **Others**: Docker, Git, Zapier Integrations.
 
 ### Connect with me:
