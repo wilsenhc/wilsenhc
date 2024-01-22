@@ -5,7 +5,7 @@
 ⚡ Full Stack Developer and Laravel Artisan.<br>
 🔭 I'm currently working with the Laravel + Inertia.js + TailwindCSS Stack.<br>
 👯 Working at [IPM Scoutek](https://ipmscoutek.com) as an Intermediate Back-End Developer using Laravel & PHP.<br>
-📜 I am a [Certified Laravel Developer](https://exam.laravelcert.com/is/wilsen-jose-hernandez-castro/certified-since/2024-01-02?) since January, 2024<br>
+📜 I am a [Certified Laravel Developer](https://exam.laravelcert.com/is/wilsen-jose-hernandez-castro/certified-since/2024-01-02?) since January, 2024.<br>
 🌱 I’m currently learning AWS.<br>
 💡 I love to experiment with new things and contribute to open source.<br>
 💬 Ask me about anything.<br>
