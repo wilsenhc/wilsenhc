@@ -29,7 +29,7 @@
 - [LinkedIn Profile][linkedin]
 - [Download CV][flowcv]
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wilsenhc&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=wilsenhc&hide_border=true&include_all_commits=true&count_private=true">
@@ -39,11 +39,16 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=wilsenhc&theme=dark&hide_border=true">
   <img alt="Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=wilsenhc&hide_border=true">
 </picture>
+
 <br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsenhc&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsenhc&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </picture>
+
+### Holopins
+[![An image of @wilsenhc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wilsenhc)](https://holopin.io/@wilsenhc)
 
 [email]: mailto:wilsenforwork@gmail.com
 [linkedin]: https://linkedin.com/in/wilsenhc
