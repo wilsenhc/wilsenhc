@@ -9,18 +9,19 @@
 📑 I’m currently translating the eBook [PHP: The Right Way](https://github.com/wilsenhc/php-the-right-way) to Spanish in my free time.<br>
 💡 I love to experiment with new things and contribute to open source.<br>
 📱 I’m currently learning React & React Native development.<br>
+🌐 I also like to contribute to [Open Source projects](OPEN_SOURCE.md).<br>
 💬 Ask me about anything.<br>
 
 ### Skills:
 
-- **Languages**: JavaScript, TypeScript, PHP.
-- **Front-end**: Vue.js, Alpine.js, Inertia.js, Quasar Framework, React, Angular, Nuxt.js.
-- **Back-end**: PHP, Laravel, Node.js, Express.js, Symfony.
-- **Databases**: MySQL, MariaDB, PostgreSQL, MongoDB, Redis, Meilisearch.
+- **Languages**: JavaScript, TypeScript, PHP, HTML, CSS.
+- **Front-end**: Vue.js, React, Nuxt.js, Alpine.js, Inertia.js, Quasar Framework, Angular, React Native.
+- **Back-end**: PHP, Laravel, Node.js, Express.js, Symfony, Adonis.js.
+- **Databases**: MySQL, MariaDB, PostgreSQL, SQLite, MongoDB, Redis, Meilisearch.
 - **CSS Frameworks**: Sass, Tailwind, Bootstrap, MaterializeCSS, Ant-Design.
 - **Testing**: PHPUnit, Pest, Jest.
 - **CI/CD**: GitHub Actions, BitBucket Pipelines, CircleCI.
-- **Cloud Services**: AWS S3, EC2, RDS, Lambda; Google Cloud Functions, Laravel Forge.
+- **Cloud Services**: AWS S3, EC2, RDS, Lambda, CloudFront; Google Cloud Functions, Laravel Forge, Laravel Vapor.
 - **Others**: Docker, Git, Zapier Integrations, Laravel Octane.
 
 ### Connect with me:
