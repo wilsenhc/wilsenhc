@@ -15,10 +15,10 @@ I’m currently translating the eBook PHP: The Right Way to Spanish in my free t
 I have made many contributions to the Laravel framework and some Laravel-related Open Source projects.
 
 ### Laravel
-- [[11.x] Add new vector method to migrations docs](https://github.com/laravel/docs/pull/10007)
 - [[12.x] Adds missing streamJson() to ResponseFactory contract](https://github.com/laravel/framework/pull/51544)
-- [[9.x] Add Vite asset path generation method](https://github.com/laravel/framework/pull/44037)
+- [[11.x] Add new vector method to migrations docs](https://github.com/laravel/docs/pull/10007)
 - [[10.x] Add the langPath() function to `Illuminate/Contracts/Foundation/Application`](https://github.com/laravel/framework/pull/40932)
+- [[9.x] Add Vite asset path generation method](https://github.com/laravel/framework/pull/44037)
 
 #### Laravel Sidecar
 - [Add .NET 8 and Ruby 3.3 runtime options](https://github.com/aarondfrancis/sidecar/pull/145)
