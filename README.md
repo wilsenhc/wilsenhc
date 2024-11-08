@@ -24,10 +24,14 @@
 - **Cloud Services**: AWS S3, EC2, RDS, Lambda, CloudFront; Google Cloud Functions, Laravel Forge, Laravel Vapor.
 - **Others**: Docker, Git, Zapier Integrations, Laravel Octane.
 
+### Open Source Contributions
+
+Here is a list of my [Open Source Contributions](OPEN_SOURCE.md)
+
 ### Connect with me:
 
-- [wilsenforwork@gmail.com][email]
-- [LinkedIn Profile][linkedin]
+- Email: [wilsenforwork@gmail.com][email]
+- [LinkedIn][linkedin]
 - [Download CV][flowcv]
 
 ### GitHub Stats:
