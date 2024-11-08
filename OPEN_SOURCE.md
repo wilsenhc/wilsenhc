@@ -3,12 +3,12 @@
 ### Personal Projects
 
 Here's a few of my personal projects that are both PHP & Laravel related
-https://github.com/wilsenhc/laravel-api-guest-book
-https://github.com/wilsenhc/laravel-rif-validation
-https://github.com/wilsenhc/parse-contribuyente
+- https://github.com/wilsenhc/laravel-api-guest-book
+- https://github.com/wilsenhc/laravel-rif-validation
+- https://github.com/wilsenhc/parse-contribuyente
 
 I’m currently translating the eBook PHP: The Right Way to Spanish in my free time.
-https://github.com/wilsenhc/php-the-right-way
+- https://github.com/wilsenhc/php-the-right-way
 
 ### Open Source Contributions
 
