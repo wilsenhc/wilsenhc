@@ -4,7 +4,7 @@
 
 ⚡ Full Stack Developer and Laravel Artisan.<br>
 🔭 I'm currently working with the Laravel + Inertia.js + TailwindCSS Stack.<br>
-📜 I am a [Certified Laravel Developer](https://exam.laravelcert.com/is/wilsen-jose-hernandez-castro/certified-since/2024-01-02?) since January, 2024.<br>
+📜 I am a [Certified Laravel Developer](https://verifier.certificationforlaravel.org/6da92b0e-a0dc-48ee-b94f-c211ec10ddfd).<br>
 📑 I’m currently translating the eBook [PHP: The Right Way](https://github.com/wilsenhc/php-the-right-way) to Spanish in my free time.<br>
 💡 I love to experiment with new things and contribute to open source.<br>
 📱 I’m currently learning React & React Native development.<br>
