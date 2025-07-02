@@ -1,9 +1,7 @@
-## Hi there, my name is Wilsen Hernández
-
 ### About me
 
 ⚡ Full Stack Developer and Laravel Artisan.<br>
-🔭 I'm currently working with the Laravel + Inertia.js + TailwindCSS Stack.<br>
+🔭 I'm currently working with the Laravel + Inertia.js + Tailwind stack.<br>
 📜 I am a [Certified Laravel Developer](https://verifier.certificationforlaravel.org/6da92b0e-a0dc-48ee-b94f-c211ec10ddfd).<br>
 📑 I’m currently translating the eBook [PHP: The Right Way](https://github.com/wilsenhc/php-the-right-way) to Spanish in my free time.<br>
 💡 I love to experiment with new things and contribute to open source.<br>
@@ -14,13 +12,13 @@
 ### Skills:
 
 - **Languages**: JavaScript, TypeScript, PHP, HTML, CSS.
-- **Front-end**: Vue.js, React, Nuxt.js, Alpine.js, Inertia.js, Quasar Framework, Angular, React Native.
+- **Front-end**: Vue.js, React, Nuxt.js, Alpine.js, Inertia.js, Quasar Framework, Angular, React Native, Livewire.
 - **Back-end**: PHP, Laravel, Node.js, Express.js, Symfony, Adonis.js.
 - **Databases**: MySQL, MariaDB, PostgreSQL, SQLite, MongoDB, Redis, Meilisearch.
-- **CSS Frameworks**: Sass, Tailwind, Bootstrap, MaterializeCSS, Ant-Design.
+- **CSS Frameworks**: Tailwind, Bootstrap, MaterializeCSS, Ant-Design.
 - **Testing**: PHPUnit, Pest, Jest.
-- **CI/CD**: GitHub Actions, BitBucket Pipelines, CircleCI.
-- **Cloud Services**: AWS S3, EC2, RDS, Lambda, CloudFront; Google Cloud Functions, Laravel Forge, Laravel Vapor.
+- **CI/CD**: GitHub Actions, BitBucket Pipelines, GitLab CI/CD, CircleCI.
+- **Cloud Services**: AWS S3, EC2, RDS, Lambda, CloudFront; Google Cloud Functions, Laravel Forge, Laravel Vapor, Laravel Cloud.
 - **Others**: Docker, Git, Zapier Integrations, Laravel Octane.
 
 ### Open Source Contributions
