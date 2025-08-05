@@ -19,7 +19,7 @@
 - **Testing**: PHPUnit, Pest, Jest.
 - **CI/CD**: GitHub Actions, BitBucket Pipelines, GitLab CI/CD, CircleCI.
 - **Cloud Services**: AWS S3, EC2, RDS, Lambda, CloudFront; Google Cloud Functions, Laravel Forge, Laravel Vapor, Laravel Cloud.
-- **Others**: Docker, Git, Zapier Integrations, Laravel Octane.
+- **Others**: Docker, Git, Zapier Integrations, Laravel Octane, FrankenPHP.
 
 ### Open Source Contributions
 
