@@ -9,7 +9,7 @@
 🌐 I also like to contribute to [Open Source projects](OPEN_SOURCE.md).<br>
 💬 Ask me about anything.<br>
 
-### Skills:
+### Skills
 
 - **Languages**: JavaScript, TypeScript, PHP, HTML, CSS.
 - **Front-end**: Vue.js, React, Nuxt.js, Alpine.js, Inertia.js, Quasar Framework, Angular, React Native, Livewire.
@@ -25,13 +25,13 @@
 
 Here is a list of my [Open Source Contributions](OPEN_SOURCE.md)
 
-### Connect with me:
+### Connect with me
 
 - Email: [wilsenforwork@gmail.com][email]
 - [LinkedIn][linkedin]
 - [Download CV][flowcv]
 
-### GitHub Stats:
+### GitHub Stats
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wilsenhc&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=wilsenhc&hide_border=true&include_all_commits=true&count_private=true">
