@@ -1,7 +1,7 @@
 ### About me
 
 ⚡ Full Stack Developer and Laravel Artisan.<br>
-🔭 I'm currently working with the Laravel + Inertia.js + Tailwind stack.<br>
+🔭 I'm currently working with the VILT stack (Vue.js, Inertia.js, Laravel, Tailwind).<br>
 📑 I’m currently translating the eBook [PHP: The Right Way](https://github.com/wilsenhc/php-the-right-way) to Spanish in my free time.<br>
 💡 I love to experiment with new things and contribute to open source.<br>
 📱 I’m currently learning React & React Native development.<br>
