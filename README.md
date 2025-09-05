@@ -13,8 +13,8 @@
 
 - **Languages**: JavaScript, TypeScript, PHP, HTML, CSS.
 - **Front-end**: Vue.js, React, Nuxt.js, Alpine.js, Inertia.js, Quasar Framework, Angular, React Native, Livewire.
-- **Back-end**: PHP, Laravel, Node.js, Express.js, Symfony, Adonis.js.
-- **Databases**: MySQL, MariaDB, PostgreSQL, SQLite, MongoDB, Redis, Meilisearch.
+- **Back-end**: PHP, Laravel, Node.js, Express.js, NestJS, Symfony, Adonis.js.
+- **Databases**: MySQL, MariaDB, PostgreSQL, SQLite, MongoDB, Redis, Meilisearch, Prisma ORM.
 - **CSS Frameworks**: Tailwind, Bootstrap, MaterializeCSS, Ant-Design.
 - **Testing**: PHPUnit, Pest, Jest.
 - **CI/CD**: GitHub Actions, BitBucket Pipelines, GitLab CI/CD, CircleCI.
