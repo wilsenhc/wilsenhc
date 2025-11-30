@@ -5,7 +5,6 @@
 📑 I’m currently translating the eBook [PHP: The Right Way](https://github.com/wilsenhc/php-the-right-way) to Spanish in my free time.<br>
 💡 I love to experiment with new things and contribute to open source.<br>
 📱 I’m currently learning React & React Native development.<br>
-📜 I have completed the (unofficial) [Laravel Developer Certification](https://verifier.certificationforlaravel.org/6da92b0e-a0dc-48ee-b94f-c211ec10ddfd).<br>
 🌐 I also like to contribute to [Open Source projects](OPEN_SOURCE.md).<br>
 💬 Ask me about anything.<br>
 
