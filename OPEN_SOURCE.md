@@ -34,6 +34,10 @@ I have made many contributions to the Laravel framework and some Laravel-related
 #### PestPHP plugin for Laravel
 - [Add `withVite()` and `withoutVite()` functions](https://github.com/pestphp/pest-plugin-laravel/pull/34)
 
+#### Laravel Sailor
+
+- [Add Svelte & Custom starter kit support, Javascript runtime options, Boost flag and update available services](https://github.com/rogerio-pereira/laravel-sailor/pull/2)
+
 #### Others
 - [Improve `composer.json`](https://github.com/alexjustesen/speedtest-tracker/pull/1746)
 - [Feature: option for no empty translation when adding missing strings](https://github.com/Spittal/vue-i18n-extract/pull/165)
