@@ -1,4 +1,4 @@
-### About me
+## About me
 
 ⚡ Full Stack Developer and Laravel Artisan.<br>
 🔭 I'm currently working with the VILT stack (Vue.js, Inertia.js, Laravel, Tailwind).<br>
@@ -8,7 +8,7 @@
 🌐 I also like to contribute to [Open Source projects](OPEN_SOURCE.md).<br>
 💬 Ask me about anything.<br>
 
-### Skills
+## Skills
 
 - **Languages**: JavaScript, TypeScript, PHP, HTML, CSS.
 - **Front-end**: Vue.js, React, Nuxt.js, Alpine.js, Inertia.js, Quasar Framework, Angular, React Native, Livewire.
@@ -20,11 +20,11 @@
 - **Cloud Services**: AWS S3, EC2, RDS, Lambda, CloudFront; Google Cloud Functions, Laravel Forge, Laravel Vapor, Laravel Cloud.
 - **Others**: Docker, Git, Zapier Integrations, Laravel Octane, FrankenPHP.
 
-### Open Source Contributions
+## Open Source Contributions
 
 Here is a list of my [Open Source Contributions](OPEN_SOURCE.md)
 
-### Connect with me
+## Connect with me
 
 - Email: [wilsenforwork@gmail.com][email]
 - [LinkedIn][linkedin]
