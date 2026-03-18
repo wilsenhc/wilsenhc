@@ -20,6 +20,9 @@ I have made many contributions to the Laravel framework and some Laravel-related
 - [[10.x] Add the `langPath()` function to `Illuminate/Contracts/Foundation/Application`](https://github.com/laravel/framework/pull/40932)
 - [[9.x] Add Vite `assetPath()` generation method](https://github.com/laravel/framework/pull/44037)
 
+#### Laravel Boost
+- [Support for third party MCP servers to Larvel Boost](https://github.com/laravel/boost/pull/700)
+
 #### Laravel Sidecar
 - [Deprecate .NET 7, Node.js 16 and Python 3.8 runtime options](https://github.com/aarondfrancis/sidecar/pull/146)
 - [Add .NET 8 and Ruby 3.3 runtime options](https://github.com/aarondfrancis/sidecar/pull/145)
