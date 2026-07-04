@@ -2,9 +2,10 @@
 
 ⚡ Full Stack Developer and Laravel Artisan.<br>
 🔭 I'm currently working with the VILT stack (Vue.js, Inertia.js, Laravel, Tailwind).<br>
-📑 I’m currently translating the eBook [PHP: The Right Way](https://github.com/wilsenhc/php-the-right-way) to Spanish in my free time.<br>
 💡 I love to experiment with new things and contribute to open source.<br>
-📱 I’m currently learning React & React Native development.<br>
+📱 I'm currently learning React & React Native development.<br>
+⛵ I built the [Charter for Laravel](https://laravelcharter.com) Open Source tool for scaffold new Laravel application with Laravel Sail.<br>
+📑 I helped coordinate translating the eBook [PHP: The Right Way](https://github.com/wilsenhc/php-the-right-way) to Spanish in my free time.<br>
 🌐 I also like to contribute to [Open Source projects](OPEN_SOURCE.md).<br>
 💬 Ask me about anything.<br>
 
