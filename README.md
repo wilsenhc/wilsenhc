@@ -5,7 +5,7 @@
 💡 I love to experiment with new things and contribute to open source.<br>
 📱 I'm currently learning React & React Native development.<br>
 ⛵ I built the [Charter for Laravel](https://laravelcharter.com) Open Source tool for scaffold new Laravel application with Laravel Sail.<br>
-📑 I helped coordinate translating the eBook [PHP: The Right Way](https://github.com/wilsenhc/php-the-right-way) to Spanish in my free time.<br>
+📑 I helped coordinate translating the eBook [PHP: The Right Way](https://github.com/wilsenhc/php-the-right-way) to Spanish.<br>
 🌐 I also like to contribute to [Open Source projects](OPEN_SOURCE.md).<br>
 💬 Ask me about anything.<br>
 
