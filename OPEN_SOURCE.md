@@ -20,6 +20,9 @@ I have made many contributions to the Laravel framework and some Laravel-related
 - [[10.x] Add the `langPath()` function to `Illuminate/Contracts/Foundation/Application`](https://github.com/laravel/framework/pull/40932)
 - [[9.x] Add Vite `assetPath()` generation method](https://github.com/laravel/framework/pull/44037)
 
+#### Laravel Sail
+- [Add CPX command support](https://github.com/laravel/sail/pull/895)
+
 #### Laravel Boost
 - [Support for third party MCP servers to Laravel Boost](https://github.com/laravel/boost/pull/700)
 
