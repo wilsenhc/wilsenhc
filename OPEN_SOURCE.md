@@ -14,42 +14,41 @@ I’m currently translating the eBook PHP: The Right Way to Spanish in my free t
 
 I have made many contributions to the Laravel framework and some Laravel-related Open Source projects.
 
-### Laravel
+### Laravel organization
+#### Framework
 - [[12.x] Adds missing `streamJson()` to ResponseFactory contract](https://github.com/laravel/framework/pull/51544)
 - [[11.x] Add new `vector()` method to migrations docs](https://github.com/laravel/docs/pull/10007)
 - [[10.x] Add the `langPath()` function to `Illuminate/Contracts/Foundation/Application`](https://github.com/laravel/framework/pull/40932)
 - [[9.x] Add Vite `assetPath()` generation method](https://github.com/laravel/framework/pull/44037)
-
+- 
 #### Laravel Sail
 - [Add CPX command support](https://github.com/laravel/sail/pull/895)
-
+- 
 #### Laravel Boost
 - [Support for third party MCP servers to Laravel Boost](https://github.com/laravel/boost/pull/700)
-
+- 
 #### Laravel Package Skeleton
 - [Adds --no-ansi and --quiet options for compatibility](https://github.com/laravel/package-skeleton/pull/28)
-
+- 
 #### Laravel Maestro
 - [Add server watch ignore patterns for vendor, node_modules, and .git directories](https://github.com/laravel/maestro/pull/202)
 
-#### Laravel Sidecar
+### Laravel Sidecar
 - [Deprecate .NET 7, Node.js 16 and Python 3.8 runtime options](https://github.com/aarondfrancis/sidecar/pull/146)
 - [Add .NET 8 and Ruby 3.3 runtime options](https://github.com/aarondfrancis/sidecar/pull/145)
 - [Add `sidecar.app_name` config variable](https://github.com/aarondfrancis/sidecar/pull/83)
 
-#### Tenancy for Laravel
+### Tenancy for Laravel
 - [[3.x] Add `Vite` helper for tenancy](https://github.com/archtechx/tenancy/pull/956)
 
-#### Laravel Clockwork
+### Laravel Clockwork
 - [Add alias `clockwork:clear` to ClockworkCleanCommand](https://github.com/itsgoingd/clockwork/pull/688)
 
-#### PestPHP plugin for Laravel
+### PestPHP plugin for Laravel
 - [Add `withVite()` and `withoutVite()` functions](https://github.com/pestphp/pest-plugin-laravel/pull/34)
 
-#### Laravel Sailor
-
+### Others
+- [add Guzzle 8 support to laravel-llms-txt](https://github.com/schaefersoft/laravel-llms-txt/pull/20)
 - [Add Svelte & Custom starter kit support, Javascript runtime options, Boost flag and update available services](https://github.com/rogerio-pereira/laravel-sailor/pull/2)
-
-#### Others
 - [Improve `composer.json`](https://github.com/alexjustesen/speedtest-tracker/pull/1746)
 - [Feature: option for no empty translation when adding missing strings](https://github.com/Spittal/vue-i18n-extract/pull/165)
