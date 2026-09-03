@@ -48,7 +48,7 @@ I have made many contributions to the Laravel framework and some Laravel-related
 - [Add `withVite()` and `withoutVite()` functions](https://github.com/pestphp/pest-plugin-laravel/pull/34)
 
 ### Others
-- [add Guzzle 8 support to laravel-llms-txt](https://github.com/schaefersoft/laravel-llms-txt/pull/20)
-- [Add Svelte & Custom starter kit support, Javascript runtime options, Boost flag and update available services](https://github.com/rogerio-pereira/laravel-sailor/pull/2)
-- [Improve `composer.json`](https://github.com/alexjustesen/speedtest-tracker/pull/1746)
-- [Feature: option for no empty translation when adding missing strings](https://github.com/Spittal/vue-i18n-extract/pull/165)
+- [add Guzzle 8 support](https://github.com/schaefersoft/laravel-llms-txt/pull/20) to `schaefersoft/laravel-llms-txt`.
+- [Add Svelte & Custom starter kit support, Javascript runtime options, Boost flag and update available services](https://github.com/rogerio-pereira/laravel-sailor/pull/2) to `rogerio-pereira/laravel-sailor`.
+- [Improve `composer.json`](https://github.com/alexjustesen/speedtest-tracker/pull/1746) to `alexjustesen/speedtest-tracker`
+- [Feature: option for no empty translation when adding missing strings](https://github.com/Spittal/vue-i18n-extract/pull/165) to `Spittal/vue-i18n-extract`
