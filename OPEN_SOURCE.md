@@ -25,6 +25,7 @@ I have made many contributions to the Laravel framework and some Laravel-related
 - [Add CPX command support](https://github.com/laravel/sail/pull/895)
 
 #### Laravel Boost
+- [Render Best Practice guidelines and skill commands with Sail's executable when needed](https://github.com/laravel/boost/pull/1046)
 - [Support for third party MCP servers to Laravel Boost](https://github.com/laravel/boost/pull/700)
 
 #### Laravel Package Skeleton
