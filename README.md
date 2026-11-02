@@ -48,6 +48,9 @@ Here is a list of my [Open Source Contributions](OPEN_SOURCE.md)
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsenhc&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </picture>
 
+### /dev/null Activity Graph
+[![/dev/null activity](https://dev-null.sh/@wilsenhc/graph.svg?theme=auto)](https://dev-null.sh/@wilsenhc)
+
 ### Holopins
 [![An image of @wilsenhc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wilsenhc)](https://holopin.io/@wilsenhc)
 
