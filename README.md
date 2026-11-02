@@ -30,24 +30,6 @@ Here is a list of my [Open Source Contributions](OPEN_SOURCE.md)
 - [LinkedIn][linkedin]
 - [Download CV][flowcv]
 
-### GitHub Stats
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wilsenhc&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=wilsenhc&hide_border=true&include_all_commits=true&count_private=true">
-</picture>
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=wilsenhc&theme=dark&hide_border=true">
-  <img alt="Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=wilsenhc&hide_border=true">
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsenhc&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsenhc&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-</picture>
-
 ### /dev/null Activity Graph
 [![/dev/null activity](https://dev-null.sh/@wilsenhc/graph.svg?theme=auto)](https://dev-null.sh/@wilsenhc)
 
