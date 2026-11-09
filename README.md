@@ -1,6 +1,6 @@
 ## About me
 
-⚡ Full Stack Developer and Laravel Artisan.<br>
+⚡ Product Engineer, Full Stack Developer and Laravel Artisan.<br>
 🔭 My main and preferred programming stack is VILT (Vue.js, Inertia.js, Laravel, Tailwind).<br>
 💡 I love to experiment with new things and contribute to open source.<br>
 ⛵ I built the [Charter for Laravel](https://laravelcharter.com) Open Source tool for scaffold new Laravel application with Laravel Sail.<br>
