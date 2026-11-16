@@ -5,7 +5,8 @@
 Here's a few of my personal projects that are both PHP & Laravel related
 - https://github.com/wilsenhc/laravel-charter
   - An Open Source tool for scaffold new Laravel application with Laravel Sail
-- https://github.com/wilsenhc/laravel-api-guest-book
+- https://github.com/wilsenhc/bacteria-timeseries-laravel-clickhouse-demo
+  - Demo of a data heavy timeseries application, for experimenting and comparing performance against a regular database
 - https://github.com/wilsenhc/laravel-rif-validation
 - https://github.com/wilsenhc/parse-contribuyente
 
