@@ -1,6 +1,6 @@
 ## About me
 
-⚡ Product Engineer, Full Stack Developer and Laravel Artisan.<br>
+⚡ Product Engineer, Applied AI, Full Stack Developer and Laravel Artisan.<br>
 🔭 My main and preferred programming stack is VILT (Vue.js, Inertia.js, Laravel, Tailwind).<br>
 💡 I love to experiment with new things and contribute to open source.<br>
 ⚡ Currently learning and experimenting with ClickHouse DB.<br>
